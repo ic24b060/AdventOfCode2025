@@ -15,3 +15,5 @@ add_executable(advent01_2 01/advent01_2.c)
 #add_executable(advent02 02/advent02_1.c) Done in python
 add_executable(advent03_1 03/advent03_1.c)
 add_executable(advent03_2 03/advent03_2.c)
+add_executable(advent04_1 04/advent04_1.c)
+add_executable(advent04_2 04/advent04_2.c)
